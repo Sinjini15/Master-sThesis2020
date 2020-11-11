@@ -7,8 +7,8 @@ Please save both folders in the same location
 
 Main Code:
 
--Contains files scripted in R and contains the main file "bradycardia_detection.R"
--Contains supporting functions that are used in the main file.
+- Contains files scripted in R and contains the main file "bradycardia_detection.R"
+- Contains supporting functions that are used in the main file.
 
 Instructions to run bradycarida_detection.R:
 
